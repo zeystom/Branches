@@ -1,5 +1,9 @@
 print("good bye world")
-def qwerty(a,b):
+VLAD
+def qwerty1(a,b):
     return a*b
 
-print(qwerty(3,4))
+print(qwerty1(3,4))
+
+def qwerty():
+    print("random")
