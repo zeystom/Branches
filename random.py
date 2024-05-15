@@ -1,1 +1,1 @@
-print("Random Nik")
+print("Random kek")
